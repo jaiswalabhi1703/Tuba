@@ -258,8 +258,12 @@ const FinalPage = () => {
         
         <div className="prose prose-pink text-gray-700 text-lg leading-relaxed space-y-6 text-left font-light">
           <p>
-            My dearest Tuba, on this special day, I want you to know how much you mean to me. 
-            You are the light that brightens my darkest days and the warmth that fills my heart.
+            There is only one word I can say: having you with me is a Blessing. I am literally blessed that I have you. 
+            You're the purest soul, the best and the most beautiful, the most kindhearted and above all the Pyariii or sbse jada pyari.
+          </p>
+          <p>
+            You make me happy and at the same time I cry just looking at your small innocent face. I wish you a very very happy birthday Tuba. 
+            I was with you, I am with you, and I also want that I remain with you only. I want and I pray each day passing by that I love you even more than yesterday.
           </p>
           <p>
             Every moment spent with you is a treasure I hold dear. Your smile, your kindness, 
